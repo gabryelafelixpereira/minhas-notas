@@ -1,2 +1,2 @@
 # minhas-notas
-documentar comando, anotações e praticas no Mulher Digital
+Aqui irei documentar comandos, anotações e praticas durante minha formação no Mulher Digital
